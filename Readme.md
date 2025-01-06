@@ -3,7 +3,7 @@ MinOCA : Learning DROCA using polynomially many queries using a SAT solver
 Author: Prince Mathew
 ##########################################################################################
 #Badges: Functional, Reusable, and Available 
-Link: 
+Link: https://github.com/princemathew07/MinOCA
 
 ##########################################################################################
 Running the code:
