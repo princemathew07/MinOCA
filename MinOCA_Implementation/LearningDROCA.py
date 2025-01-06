@@ -399,15 +399,15 @@ if __name__ == "__main__":
         if choice == '1' or choice=='2' or choice=='3':
             if(choice=='1'):
                 Learner.inputPath='./TestCases/Representative_SampleDS1/'
-                print("This operation will take approximately 1 hour to complete.")
+                print("This operation will be completed within an hour.")
                 confirm= input("Do you want to continue? (y/n): ")
             elif(choice=='2'):
                 Learner.inputPath='../Datasets/Dataset1/' 
-                print("This operation will take days to complete. Do you want to continue? (y/n): ")
+                print("This operation will be completed within 7 days. Do you want to continue? (y/n): ")
                 confirm= input("")
             else:
                 Learner.inputPath='../Datasets/Dataset2/' 
-                print("This operation will take days to complete. Do you want to continue? (y/n): ")
+                print("This operation will be completed within 7 days. Do you want to continue? (y/n): ")
                 confirm= input("")
             if confirm == 'y':
                 #print("yes")
