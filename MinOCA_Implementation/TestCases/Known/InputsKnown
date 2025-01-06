@@ -1,0 +1,91 @@
+10	                                    # Number of input languages
+anbna(a+b)(a+b)	                            # Name of Language 1 
+6                                           # States
+0                                           # Initial
+4  	                                    # Final
+a b 	                                    # Alphabet
+0 +1 2 0 3 0 4 0 5 0 5 +1                   # a0
+0 +1 5 +1 3 +1 4 +1 5 +1 5 +1               # a1 
+5 +1 5 +1 3 0 4 0 5 0 5 +1                  # b0
+1 -1 1 -1 3 +1 4 +1 5 +1 5 +1               # b1
+(anbn)even_a                                # Name of Language 2
+6                                           # States
+0                                           # Initial
+4   	                                    # Final
+a b 	                                    # Alphabet
+0 +1 2 1 5 0 4 1 5 0 5 0                    # a0
+0 1 5 0 2 1 5 0 0 1 5 0                     # a1 
+5 0 5 0 5 0 5 0 5 0 5 0                     # b0
+1 -1 1 -1 3 -1 3 -1 1 -1 5 0                # b1
+(anbn)odd_a                                 # Name of Language 3
+6
+0
+2
+a b
+0 +1 2 +1 2 0 3 0 0 +1 5 +1
+0 +1 5 +1 3 +1 3 +1 5 +1 5 +1
+5 +1 5 +1 5 +1 5 +1 5 +1 5 +1
+1 -1 1 -1 4 -1 4 -1 4 -1 5 +1
+(ambn)_a|m>n                                # Name of Language 4
+5 
+0
+1 3
+a b
+1 +1 1 +1 4 +1 4 +1 4 +1
+1 +1 1 +1 3 +1 4 +1 4 +1
+4 +1 4 +1 4 +1 4 +1 4 +1
+4 +1 2 -1 2 -1 4 -1 4 +1
+aibi-plus-a                                 # Name of Language 5 - accepting with final state
+4
+0
+2
+a b
+0 +1 2 +1 2 +1 3 +1 
+0 +1 3 +1 0 +1 3 +1
+3 +1 3 +1 3 +1 3 +1
+1 -1 1 -1 1 -1 3 -1
+equal(ab)a                                  # Name of Language 6 
+5
+0
+1
+a b
+1 +1 1 +1 1 +1 1 +1 4 +1 
+4 +1 2 +1 2 +1 3 -1 4 +1
+3 +1 4 +1 3 +1 3 +1 4 +1
+4 +1 0 -1 2 -1 3 +1 4 +1
+anbn-plus-a                                 # Name of Language 7 - Accepting with counter zero and final state
+5
+0
+3
+a b
+1 0 1 +1 3 0 1 +1 4 +1
+4 +1 1 +1 4 +1 4 +1 4 +1
+4 +1 2 0 4 +1 2 0 4 +1
+4 +1 2 0 2 -1 4 -1 4 +1
+anbna                                       # Name of Language 8
+4
+0
+2
+a b
+0 +1 2 0 3 +1 3 +1
+0 +1 3 +1 3 +1 3 +1
+3 +1 3 +1 3 +1 3 +1
+1 -1 1 -1 3 +1 3 +1
+anbn_even_a-0                               # Name of Language 9 - Accepting with counter 0
+7
+0
+5
+a b
+1 0 1 +1 3 0 3 +1 5 0 1 +1 6 +1
+6 +1 1 +1 6 +1 3 +1 6 +1 6 +1 6 +1
+6 +1 2 0 2 +1 4 0 6 +1 2 +1 6 +1
+6 +1 2 0 2 +1 4 0 4 -1 6 +1 6 +1
+anbm_n-odd_m>n                              # Name of Language 10
+5
+0
+3
+a b
+1 +1 4 +1 3 +1 4 +1 4 +1
+1 +1 0 +1 4 +1 4 +1 4 +1
+4 +1 4 +1 2 0 4 +1 4 +1
+4 +1 2 0 2 -1 4 +1 4 +1

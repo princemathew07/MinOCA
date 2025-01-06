@@ -1,0 +1,4 @@
+python-sat==1.8.dev13
+dfa==4.6.3
+pydot==2.0.0
+graphviz==0.20.1

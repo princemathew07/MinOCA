@@ -1,0 +1,103 @@
+LangName ,  TimeElapsed  , totalEqQueries , LongestCELength, rows, columns, #States
+Language_0, Failed
+Language_1, TimeOut
+Language_2, Failed
+Language_3, 0.127153625, 21, 9, 35, 81, 12
+Language_4, Failed
+Language_5, Failed
+Language_6, 0.0011575, 6, 3, 8, 5, 6
+Language_7, Failed
+Language_8, Failed
+Language_9, 1.426190625, 20, 10, 28, 43, 18
+Language_10, 6.970556916, 199, 41, 249, 418, 18
+Language_11, 0.001843917, 9, 5, 12, 13, 7
+Language_12, Failed
+Language_13, 0.036322375, 7, 5, 12, 19, 8
+Language_14, Failed
+Language_15, Failed
+Language_16, 0.008647167, 8, 4, 12, 25, 7
+Language_17, 0.000892292, 6, 3, 9, 4, 6
+Language_18, Failed
+Language_19, Failed
+Language_20, Failed
+Language_21, Failed
+Language_22, 0.741490792, 24, 9, 29, 23, 18
+Language_23, 0.001544, 8, 5, 10, 8, 7
+Language_24, 0.000995917, 4, 2, 7, 9, 6
+Language_25, 0.070485375, 22, 9, 22, 11, 9
+Language_26, Failed
+Language_27, 0.295145916, 15, 8, 30, 61, 10
+Language_28, 0.003246333, 11, 6, 17, 12, 11
+Language_29, Failed
+Language_30, Failed
+Language_31, Failed
+Language_32, Failed
+Language_33, Failed
+Language_34, Failed
+Language_35, Failed
+Language_36, Failed
+Language_37, TimeOut
+Language_38, Failed
+Language_39, Failed
+Language_40, TimeOut
+Language_41, 29.83426475, 23, 10, 35, 66, 12
+Language_42, Failed
+Language_43, Failed
+Language_44, 0.0010715, 7, 4, 10, 7, 8
+Language_45, 0.001871833, 5, 2, 7, 10, 6
+Language_46, Failed
+Language_47, Failed
+Language_48, TimeOut
+Language_49, Failed
+Language_50, TimeOut
+Language_51, Failed
+Language_52, 0.002144917, 6, 4, 10, 6, 6
+Language_53, Failed
+Language_54, Failed
+Language_55, 0.729623208, 48, 16, 67, 119, 18
+Language_56, 0.410751417, 22, 9, 30, 39, 18
+Language_57, Failed
+Language_58, 0.23062525, 15, 9, 19, 18, 12
+Language_59, 1.046497625, 23, 10, 27, 31, 15
+Language_60, 0.001205542, 7, 3, 9, 8, 7
+Language_61, Failed
+Language_62, 0.001113041, 5, 3, 9, 6, 6
+Language_63, Failed
+Language_64, Failed
+Language_65, TimeOut
+Language_66, Failed
+Language_67, Failed
+Language_68, 2.588948167, 59, 26, 95, 53, 25
+Language_69, 2.906868959, 90, 23, 147, 252, 12
+Language_70, Failed
+Language_71, Failed
+Language_72, 0.026909459, 7, 5, 11, 22, 7
+Language_73, Failed
+Language_74, Failed
+Language_75, 0.003050959, 9, 6, 13, 15, 10
+Language_76, Failed
+Language_77, Failed
+Language_78, Failed
+Language_79, Failed
+Language_80, Failed
+Language_81, 0.006303, 8, 7, 20, 18, 13
+Language_82, Failed
+Language_83, Failed
+Language_84, Failed
+Language_85, TimeOut
+Language_86, TimeOut
+Language_87, Cancelled
+Language_88, Failed
+Language_89, TimeOut
+Language_90, Failed
+Language_91, Failed
+Language_92, Failed
+Language_93, Failed
+Language_94, Failed
+Language_95, 0.024211958, 7, 4, 10, 11, 7
+Language_96, Failed
+Language_97, Failed
+Language_98, TimeOut
+Language_99, 9.786893042, 5, 4, 9, 6, 5
+
+, 1.8480009, 22.774193, 8.5161295, 32.51613, 45.774193, 10.645162, 31

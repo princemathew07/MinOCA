@@ -1,0 +1,103 @@
+Lang_name, Total_time, #Equiv. Queries, LongestCounterExampleLength, |P|, |S|, NoStates, Sat_Time, Time_perSAT, AvgCounter_Example_Length
+Language_0, SAT Failed
+Language_1, SAT Failed
+Language_2, SAT Failed
+Language_3, SAT Failed
+Language_4, SAT Failed
+Language_5, SAT Failed
+Language_6, SAT Failed
+Language_7, SAT Failed
+Language_8, SAT Failed
+Language_9, 265.99135994911194, 4, 4, 62, 3, 13, 264.4527499675751, 66.11318749189377, 3.6666666666666665
+Language_10, SAT Failed
+Language_11, SAT Failed
+Language_12, SAT Failed
+Language_13, SAT Failed
+Language_14, SAT Failed
+Language_15, SAT Failed
+Language_16, SAT Failed
+Language_17, 83.79739284515381, 3, 5, 49, 3, 13, 82.64730143547058, 27.549100478490193, 4.0
+Language_18, SAT Failed
+Language_19, SAT Failed
+Language_20, SAT Failed
+Language_21, SAT Failed
+Language_22, SAT Failed
+Language_23, SAT Failed
+Language_24, SAT Failed
+Language_25, SAT Failed
+Language_26, SAT Failed
+Language_27, 171.02326607704163, 3, 4, 52, 3, 13, 169.5317738056183, 56.51059126853943, 4.0
+Language_28, SAT Failed
+Language_29, SAT Failed
+Language_30, SAT Failed
+Language_31, SAT Failed
+Language_32, 270.86630034446716, 4, 4, 61, 2, 13, 269.5262060165405, 67.38155150413513, 3.6666666666666665
+Language_33, SAT Failed
+Language_34, 121.6235659122467, 3, 4, 52, 2, 13, 120.04364609718323, 40.01454869906107, 3.5
+Language_35, SAT Failed
+Language_36, SAT Failed
+Language_37, SAT Failed
+Language_38, SAT Failed
+Language_39, SAT Failed
+Language_40, SAT Failed
+Language_41, SAT Failed
+Language_42, SAT Failed
+Language_43, SAT Failed
+Language_44, SAT Failed
+Language_45, SAT Failed
+Language_46, 167.99494194984436, 2, 4, 39, 2, 13, 166.4913878440857, 83.24569392204285, 4.0
+Language_47, SAT Failed
+Language_48, SAT Failed
+Language_49, SAT Failed
+Language_50, SAT Failed
+Language_51, SAT Failed
+Language_52, 239.0243489742279, 4, 6, 64, 2, 13, 237.49635243415833, 59.37408810853958, 4.666666666666667
+Language_53, 202.5769488811493, 4, 4, 67, 3, 13, 200.98588275909424, 50.24647068977356, 4.0
+Language_54, SAT Failed
+Language_55, 104.49981784820557, 3, 5, 45, 2, 12, 103.70098972320557, 34.566996574401855, 3.5
+Language_56, SAT Failed
+Language_57, SAT Failed
+Language_58, SAT Failed
+Language_59, SAT Failed
+Language_60, 265.76557207107544, 4, 6, 66, 2, 13, 264.21645498275757, 66.05411374568939, 5.0
+Language_61, SAT Failed
+Language_62, SAT Failed
+Language_63, 242.5174949169159, 3, 5, 52, 2, 13, 241.19483017921448, 80.39827672640483, 4.5
+Language_64, SAT Failed
+Language_65, SAT Failed
+Language_66, 300.24835896492004, 5, 5, 81, 3, 13, 298.85534954071045, 59.77106990814209, 4.5
+Language_67, SAT Failed
+Language_68, 209.68350791931152, 3, 4, 52, 2, 13, 208.1216049194336, 69.37386830647786, 3.5
+Language_69, 157.95633602142334, 5, 6, 79, 2, 13, 156.60245370864868, 31.320490741729735, 4.75
+Language_70, SAT Failed
+Language_71, SAT Failed
+Language_72, SAT Failed
+Language_73, SAT Failed
+Language_74, SAT Failed
+Language_75, SAT Failed
+Language_76, 230.10595202445984, 4, 6, 61, 2, 13, 228.78112483024597, 57.19528120756149, 4.666666666666667
+Language_77, SAT Failed
+Language_78, 275.8323140144348, 7, 8, 101, 2, 12, 274.7255811691284, 39.24651159558977, 6.0
+Language_79, SAT Failed
+Language_80, SAT Failed
+Language_81, SAT Failed
+Language_82, SAT Failed
+Language_83, SAT Failed
+Language_84, SAT Failed
+Language_85, SAT Failed
+Language_86, SAT Failed
+Language_87, SAT Failed
+Language_88, 52.07061696052551, 5, 8, 69, 4, 12, 51.048810720443726, 10.209762144088746, 5.25
+Language_89, SAT Failed
+Language_90, SAT Failed
+Language_91, SAT Failed
+Language_92, SAT Failed
+Language_93, SAT Failed
+Language_94, 234.92442321777344, 4, 8, 64, 2, 13, 233.3439610004425, 58.335990250110626, 5.666666666666667
+Language_95, 277.3538029193878, 5, 8, 84, 2, 13, 275.781441450119, 55.1562882900238, 5.25
+Language_96, SAT Failed
+Language_97, SAT Failed
+Language_98, 181.30207204818726, 4, 6, 65, 2, 13, 179.7072286605835, 44.926807165145874, 5.0
+Language_99, SAT Failed
+
+Average, 202.75791969299317, 3.95, 5.5, 63.25, 2.35, 12.85, 201.36275656223296, 52.84953444089208, 4.454166666666667, 7, 20

@@ -1,0 +1,103 @@
+Lang_name, Total_time, #Equiv. Queries, LongestCounterExampleLength, |P|, |S|, NoStates, Sat_Time, Time_perSAT, AvgCounter_Example_Length, Total_Equiv_Time, Last_Equiv_Time
+Language_0, SAT Failed
+Language_1, SAT Failed
+Language_2, SAT Failed
+Language_3, SAT Failed
+Language_4, SAT Failed
+Language_5, SAT Failed
+Language_6, SAT Failed
+Language_7, SAT Failed
+Language_8, SAT Failed
+Language_9, SAT Failed
+Language_10, SAT Failed
+Language_11, SAT Failed
+Language_12, SAT Failed
+Language_13, SAT Failed
+Language_14, SAT Failed
+Language_15, 236.94920921325684, 2, 2, 26, 2, 15, 233.7628049850464, 116.8814024925232, 2.0, 3.1772186756134033, 2.0811100006103516
+Language_16, SAT Failed
+Language_17, SAT Failed
+Language_18, SAT Failed
+Language_19, SAT Failed
+Language_20, SAT Failed
+Language_21, SAT Failed
+Language_22, SAT Failed
+Language_23, SAT Failed
+Language_24, 244.76469802856445, 4, 5, 46, 4, 14, 239.21597123146057, 59.80399280786514, 3.0, 5.501462936401367, 2.1912589073181152
+Language_25, SAT Failed
+Language_26, SAT Failed
+Language_27, SAT Failed
+Language_28, SAT Failed
+Language_29, SAT Failed
+Language_30, SAT Failed
+Language_31, SAT Failed
+Language_32, SAT Failed
+Language_33, SAT Failed
+Language_34, SAT Failed
+Language_35, SAT Failed
+Language_36, SAT Failed
+Language_37, SAT Failed
+Language_38, SAT Failed
+Language_39, SAT Failed
+Language_40, SAT Failed
+Language_41, SAT Failed
+Language_42, 258.5296149253845, 3, 3, 38, 3, 15, 253.77398204803467, 84.5913273493449, 3.0, 4.732651948928833, 2.532414197921753
+Language_43, SAT Failed
+Language_44, 280.33538603782654, 3, 4, 32, 3, 15, 275.5427851676941, 91.84759505589803, 3.5, 4.774469614028931, 2.565215826034546
+Language_45, SAT Failed
+Language_46, SAT Failed
+Language_47, SAT Failed
+Language_48, SAT Failed
+Language_49, SAT Failed
+Language_50, SAT Failed
+Language_51, SAT Failed
+Language_52, SAT Failed
+Language_53, SAT Failed
+Language_54, SAT Failed
+Language_55, SAT Failed
+Language_56, SAT Failed
+Language_57, SAT Failed
+Language_58, SAT Failed
+Language_59, SAT Failed
+Language_60, SAT Failed
+Language_61, SAT Failed
+Language_62, SAT Failed
+Language_63, SAT Failed
+Language_64, SAT Failed
+Language_65, SAT Failed
+Language_66, 182.67446899414062, 2, 3, 30, 2, 15, 178.7106819152832, 89.3553409576416, 3.0, 3.955049514770508, 2.835622787475586
+Language_67, SAT Failed
+Language_68, SAT Failed
+Language_69, SAT Failed
+Language_70, SAT Failed
+Language_71, SAT Failed
+Language_72, SAT Failed
+Language_73, SAT Failed
+Language_74, SAT Failed
+Language_75, 209.66263699531555, 4, 4, 47, 3, 15, 203.71567344665527, 50.92891836166382, 4.0, 5.91230583190918, 2.5387818813323975
+Language_76, SAT Failed
+Language_77, SAT Failed
+Language_78, SAT Failed
+Language_79, SAT Failed
+Language_80, SAT Failed
+Language_81, SAT Failed
+Language_82, 154.42513394355774, 2, 3, 25, 4, 15, 150.88912415504456, 75.44456207752228, 3.0, 3.5233983993530273, 2.430328130722046
+Language_83, SAT Failed
+Language_84, SAT Failed
+Language_85, SAT Failed
+Language_86, SAT Failed
+Language_87, SAT Failed
+Language_88, SAT Failed
+Language_89, SAT Failed
+Language_90, SAT Failed
+Language_91, SAT Failed
+Language_92, Time Out, 301.58308720588684
+Language_93, SAT Failed
+Language_94, SAT Failed
+Language_95, 230.23721981048584, 3, 3, 26, 3, 15, 225.49900698661804, 75.16633566220601, 3.0, 4.7223498821258545, 2.3715829849243164
+Language_96, SAT Failed
+Language_97, 297.06373596191406, 3, 4, 35, 2, 15, 291.94587326049805, 97.31529108683269, 3.5, 5.099822759628296, 2.4122259616851807
+Language_98, SAT Failed
+Language_99, SAT Failed
+
+Average, 232.73801154560513, 2.888888888888889, 3.4444444444444446, 33.888888888888886, 2.888888888888889, 14.88888888888889, 228.11732257737054, 82.3705295390553, 3.111111111111111, 4.5998588403066, 2.43983785311381, 4, 9

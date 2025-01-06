@@ -1,0 +1,103 @@
+LangName ,  TimeElapsed  , totalEqQueries , LongestCELength, rows, columns, #States
+Language_0, Failed
+Language_1, Cancelled
+Language_2, TimeOut
+Language_3, 0.603710375, 8, 7, 15, 13, 10
+Language_4, Failed
+Language_5, Failed
+Language_6, Failed
+Language_7, 0.133619458, 6, 5, 12, 8, 7
+Language_8, Failed
+Language_9, TimeOut
+Language_10, Failed
+Language_11, Failed
+Language_12, Failed
+Language_13, TimeOut
+Language_14, 0.691834084, 8, 5, 15, 15, 13
+Language_15, Failed
+Language_16, 0.29290325, 6, 6, 12, 6, 9
+Language_17, 0.255500583, 6, 5, 14, 8, 11
+Language_18, Failed
+Language_19, Failed
+Language_20, TimeOut
+Language_21, Failed
+Language_22, 0.005126583, 12, 8, 21, 32, 15
+Language_23, TimeOut
+Language_24, 0.003523208, 13, 9, 22, 23, 14
+Language_25, TimeOut
+Language_26, TimeOut
+Language_27, Failed
+Language_28, 0.011577958, 6, 4, 15, 17, 14
+Language_29, Failed
+Language_30, TimeOut
+Language_31, 0.001081084, 5, 7, 13, 12, 9
+Language_32, 0.004992, 10, 9, 24, 40, 20
+Language_33, Failed
+Language_34, 0.028227875, 15, 12, 34, 75, 28
+Language_35, 0.714753292, 6, 4, 14, 6, 10
+Language_36, Failed
+Language_37, Failed
+Language_38, Failed
+Language_39, Failed
+Language_40, TimeOut
+Language_41, TimeOut
+Language_42, Cancelled
+Language_43, Failed
+Language_44, TimeOut
+Language_45, Failed
+Language_46, Failed
+Language_47, Failed
+Language_48, Failed
+Language_49, Failed
+Language_50, Failed
+Language_51, Failed
+Language_52, Failed
+Language_53, TimeOut
+Language_54, 6.439275209, 9, 6, 18, 19, 13
+Language_55, Failed
+Language_56, Failed
+Language_57, 0.417667792, 3, 0, 7, 8, 6
+Language_58, 0.002641208, 12, 5, 21, 9, 16
+Language_59, TimeOut
+Language_60, Failed
+Language_61, 0.015908208, 17, 12, 30, 59, 20
+Language_62, TimeOut
+Language_63, TimeOut
+Language_64, 0.002439709, 10, 6, 19, 15, 12
+Language_65, 0.002531458, 13, 7, 20, 17, 14
+Language_66, Failed
+Language_67, TimeOut
+Language_68, Failed
+Language_69, TimeOut
+Language_70, 0.031515958, 18, 11, 33, 58, 19
+Language_71, TimeOut
+Language_72, TimeOut
+Language_73, TimeOut
+Language_74, TimeOut
+Language_75, 0.002448166, 14, 7, 23, 16, 15
+Language_76, TimeOut
+Language_77, Failed
+Language_78, TimeOut
+Language_79, 0.005767458, 12, 12, 27, 38, 17
+Language_80, Failed
+Language_81, TimeOut
+Language_82, TimeOut
+Language_83, 0.869622042, 9, 6, 17, 8, 11
+Language_84, Failed
+Language_85, Failed
+Language_86, Failed
+Language_87, TimeOut
+Language_88, Failed
+Language_89, Failed
+Language_90, Failed
+Language_91, Failed
+Language_92, Failed
+Language_93, 0.0043515, 8, 5, 18, 29, 16
+Language_94, Failed
+Language_95, TimeOut
+Language_96, TimeOut
+Language_97, 0.004405666, 11, 10, 21, 35, 17
+Language_98, TimeOut
+Language_99, Failed
+
+, 0.4393927, 9.875, 7.0, 19.375, 23.583334, 14.0, 24

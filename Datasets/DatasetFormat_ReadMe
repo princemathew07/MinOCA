@@ -1,0 +1,105 @@
+### Input File Specification
+
+Consider an input file named `input` containing a set of DROCAs (Deterministic Real-Time One-Counter Automata). Below is an explanation of its structure and meaning:
+
+---
+
+#### Example Content of `input`:
+
+1                                     # Number of input DROCAs
+Language_0                            # Name of Language 1
+6                                     # Number of states
+0                                     # Initial state
+4                                     # Final state(s)
+a b                                   # Alphabet
+0 +1 2 0 3 0 4 0 5 0 5 +1            # Transitions on 'a' from counter value 0
+0 +1 5 +1 3 +1 4 +1 5 +1 5 +1        # Transitions on 'a' from +ve counter value
+5 +1 5 +1 3 0 4 0 5 0 5 +1           # Transitions on 'b' from counter value 0
+1 -1 1 -1 3 +1 4 +1 5 +1 5 +1        # Transitions on 'b' from +ve counter value
+
+---
+
+### Line-by-Line Explanation:
+
+#### Line 1:
+Specifies the number of DROCAs described in the file.  
+Example: `1` indicates the file contains one DROCA.
+
+#### Line 2:
+Provides the name of the DROCA or the associated language.  
+Example: `Language_0` is the name of the DROCA.
+
+#### Line 3:
+Indicates the total number of states in the DROCA. States are labeled sequentially, starting from 0.  
+Example: `6` means the states are labeled as `0, 1, 2, 3, 4, 5`.
+
+#### Line 4:
+Specifies the label of the initial state.  
+Example: `0` is the initial state.
+
+#### Line 5:
+Lists the final states in the DROCA.  
+Example: `4` indicates state `4` is the only final state.
+
+#### Line 6:
+Lists the input alphabet as a space-separated string of symbols.  
+Example: `a b` defines the input alphabet as `{a, b}`.
+
+#### Lines 7-10:
+Define the transition functions for each input symbol (`a` and `b`) from two possible counter values: `0` and positive counter value (`+ve`). The format for these lines is:
+
+[target state0] [counter increment/decrement] [target state1] ...
+Each transition is described in terms of the current state, the effect on the counter, and the target state.
+
+---
+
+### Detailed Explanation of Transitions
+
+For transitions on a symbol (e.g., `a` or `b`), the value at index `2*i` in the transition line denotes the state to which the automaton transitions **on input symbol** from state `i`, and the value at index `2*i + 1` specifies the counter action (`+1`, `-1`, or `0`).
+
+---
+
+#### Example: Line 7
+
+0 +1 2 0 3 0 4 0 5 0 5 +1            # Transitions on 'a' from counter value 0
+
+Represents transitions for input `a` from a counter value of `0`:
+- From state `0`, on input `a`, the automaton transitions to state `0` and increments the counter by `+1`.
+- From state `1`, on input `a`, it transitions to state `2` with no change to the counter.
+- From state `2`, on input `a`, it transitions to state `3` with no change to the counter.
+- From state `3`, on input `a`, it transitions to state `4` with no change to the counter.
+- From state `4`, on input `a`, it transitions to state `5` with no change to the counter.
+- From state `5`, on input `a`, it transitions to state `5` and increments the counter by `+1`.
+
+---
+
+#### Example: Line 8
+
+0 +1 5 +1 3 +1 4 +1 5 +1 5 +1        # Transitions on 'a' from +ve counter value
+
+Represents transitions for input `a` from a positive counter value:
+- From state `0`, on input `a`, the automaton transitions to state `0` and increments the counter by `+1`.
+- From state `1`, on input `a`, it transitions to state `5` and increments the counter by `+1`.
+- From state `2`, on input `a`, it transitions to state `3` and increments the counter by `+1`.
+- From state `3`, on input `a`, it transitions to state `4` and increments the counter by `+1`.
+- From state `4`, on input `a`, it transitions to state `5` and increments the counter by `+1`.
+- From state `5`, on input `a`, it transitions to state `5` and increments the counter by `+1`.
+
+---
+
+#### Example: Line 9
+
+5 +1 5 +1 3 0 4 0 5 0 5 +1           # Transitions on 'b' from counter value 0
+
+Represents transitions for input `b` from a counter value of `0`.
+
+---
+
+#### Example: Line 10
+
+1 -1 1 -1 3 +1 4 +1 5 +1 5 +1        # Transitions on 'b' from +ve counter value
+
+Represents transitions for input `b` from a positive counter value.
+
+---
+

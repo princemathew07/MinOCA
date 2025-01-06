@@ -1,0 +1,24 @@
+digraph automaton {
+0 [label="", shape=point];
+0 -> q_0;
+q_0->q_1[label="a, 0, 1"];
+q_0->q_2[label="b, 0, 0"];
+q_0->q_1[label="a, +, 1"];
+q_0->q_0[label="b, +, -1"];
+q_1->q_0[label="a, 0, 1"];
+q_1->q_1[label="b, 0, 0"];
+q_1->q_0[label="a, +, 0"];
+q_1->q_0[label="b, +, 1"];
+q_2->q_0[label="a, +, 0"];
+q_2->q_2[label="b, +, 1"];
+q_2->q_3[label="a, 0, 0"];
+q_2->q_1[label="b, 0, 1"];
+q_3->q_1[label="a, 0, 1"];
+q_3->q_1[label="b, 0, 0"];
+q_3->q_3[label="a, +, 0"];
+q_3->q_3[label="b, +, 1"];
+q_0 [shape=circle];
+q_1 [shape=circle];
+q_2 [shape=doublecircle];
+q_3 [shape=doublecircle];
+}
